@@ -4,7 +4,7 @@
 
 > Detect performance lag in your app
 
-[demo](./)
+[demo](https://platane.github.io/performance-clock/demo.html)
 
 ## Inspiration
 
@@ -14,4 +14,4 @@ I stole it from Dan Abramov JsConf Iceland talk.
 
 ## Installation
 
-[I recommand using it as javascript bookmark.](./)
+[I recommand using it as javascript bookmark.](https://platane.github.io/performance-clock/installation.html)
