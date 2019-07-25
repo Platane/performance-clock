@@ -1,0 +1,12 @@
+<html>
+  <body></body>
+  <button>run junk code</button>
+  <script src="./performance-clock.js"></script>
+  <script>
+    document.querySelector("button").onclick = () => {
+      const start = Date.now();
+
+      while (Date.now() - start < 300) Math.sqrt(123409152);
+    };
+  </script>
+</html>
