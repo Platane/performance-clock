@@ -1,6 +1,10 @@
 # Performance clock
 
-![performance clock](./doc/images/performance-clock.gif)
+<p align="center">
+  <a href="https://platane.github.io/performance-clock/demo.html">
+    <img src="./doc/images/performance-clock.gif" width="600"/>
+  </a>
+</p>
 
 > Detect performance lag in your app
 
@@ -14,6 +18,6 @@ I stole it from Dan Abramov JsConf Iceland talk.
 
 ## Usage
 
-I recommand using it as javascript bookmark.
+I recommand using it as bookmarklet.
 
 [installation](https://platane.github.io/performance-clock/installation.html)
