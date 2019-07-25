@@ -12,6 +12,8 @@ I stole it from Dan Abramov JsConf Iceland talk.
 
 [![youtube JsConf Iceland talk](./doc/images/youtube.jpg)](https://youtu.be/nLF0n9SACd4?t=265)
 
-## Installation
+## Usage
 
-[I recommand using it as javascript bookmark.](https://platane.github.io/performance-clock/installation.html)
+I recommand using it as javascript bookmark.
+
+[installation](https://platane.github.io/performance-clock/installation.html)
